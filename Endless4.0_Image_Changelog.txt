@@ -1,0 +1,20 @@
+Endless 4.0 Change Log and Notes
+
+::ChangeLog::
+ - Added WP 50_default.rules policy to prevent student username changing.
+	> /etc/polkit-1/rules.d/50_default.rules
+ - Added WP 10-wp-eos-wifi-admin-only.rules policy to prevent student user from accessing wifi networks
+	> /etc/polkit-1/rules.d/10-wp-eos-wifi-admin-only.rules
+ - Added WP Wifi Service files
+	> /etc/network/wifi-connect.sh
+	> /etc/systemd/system/wifi-connect.service
+	> /home/jadmin/setup.sh
+ - Made both the setup.sh and wifi-connect.sh files executable.
+	> sudo chmod +x filename.sh (while in the correct directories for each)
+ - Executed the following commands to enable the new wifi service:
+	> sudo systemctl enable wifi-connect
+	> sudo systemctl daemon-reload
+	> sudo systemctl start wifi-connect
+
+::Notes::
+ - Odd Text Login prompt shows when a user logs out
