@@ -18,3 +18,4 @@ Endless 4.0 Change Log and Notes
 
 ::Notes::
  - Odd Text Login prompt shows when a user logs out
+ - Look in to the Hack application (may need intenet for most modules to work)
