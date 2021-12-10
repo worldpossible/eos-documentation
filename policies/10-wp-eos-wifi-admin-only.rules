@@ -1,0 +1,11 @@
+polkit.addRule(function(action, subject) {
+    // Require admin authentication to configure networks
+    if (action.id == "org.freedesktop.NetworkManager.settings.modify.system" ||
+        action.id == "org.freedesktop.NetworkManager.settings.modify.own") {
+        if (subject.local && subject.active && subject.isInGroup("sudo")) {
+            return polkit.Result.YES;
+        }
+        return polkit.Result.AUTH_ADMIN;
+    }
+    return polkit.Result.NOT_HANDLED;
+});
