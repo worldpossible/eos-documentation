@@ -11,7 +11,7 @@ To Access a Wireless Network with a Securebook, follow these steps:
 2. Dock the Securebook onto the Red Docking Station
 
 ![RedDockingStation.jpg](../_resources/RedDockingStation.jpg)
-*Note: If the Securebook is correctly situated on the docking station, A green light will light up on the side. If there is no light, the Securebook could be improperly mounted or even be dead (0% power).*
+*Note: If the Securebook is correctly situated on the docking station, A green light will light up on the side. If there is no light, the Securebook could be improperly mounted, powered off, or even be dead (0% power).*
 
 3. Power On the Securebook
 4. Log in to an account
