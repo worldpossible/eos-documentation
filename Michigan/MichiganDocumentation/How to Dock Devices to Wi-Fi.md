@@ -1,6 +1,6 @@
 # How to Dock Devices to Wi-Fi
 
-To accomplish this process, you will need 
+To accomplish this process, you will need:
  - WP Securebook
  - Red (Wi-Fi) Securebook Docking Station
 
