@@ -15,26 +15,26 @@ To complete the First Setup process, follow these steps:
 
 1. Power On the Securebook
 2. Login to the jadmin account using the default password
-3. Open the Terminal Application
+3. Open the Terminal Application (Click Icon on the Desktop or Type 'Terminal' in the Searchbar)
 
-![FSetup_Terminal.png](../_resources/FSetup_Terminal.png)
+![01_FSetupTerminal.png](../_resources/01_FSetupTerminal.png)
 
 4. Run the following command:
 	`sudo bash first_setup.sh`
 5. Follow the On-Screen prompts:
-	- Enter the New Student Account Name
-	- Enter the New Student Account Password
+Enter the New Student Account Name
+Enter the New Student Account Password
 
-![FSetup_Student.png](../_resources/FSetup_Student.png)
+![02_FSetup_Student.png](../_resources/02_FSetup_Student.png)
 
-	- Enter the New jadmin Account Password
+Enter the New jadmin Account Password
 
-![FSetup_jadmin.png](../_resources/FSetup_jadmin.png)
+![03_FSetup_jadmin.png](../_resources/03_FSetup_jadmin.png)
 
-	- Enter the Current Date (YYYYMMDD)
-	- Enter the Current Time (HH:MM) in 24 Hour format
+Enter the Current Date (YYYYMMDD)
+Enter the Current Time (HH:MM) in 24 Hour format
 
-![FSetup_DateTime.png](../_resources/FSetup_DateTime.png)
+![04_FSetup_DateTime.png](../_resources/04_FSetup_DateTime.png)
 
 *Note: Once you have entered all the information, the script should conclude.*
 
