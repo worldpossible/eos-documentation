@@ -20,15 +20,15 @@ To upload a file to Turn It In!, follow these steps:
 3. Navigate to RACHEL
 4. Select the Turn It In! Module
 
-![01_RACHEL.jpg](../_resources/01_RACHEL-2.jpg)
+![01_RACHEL.jpg](../_resources/01_RACHEL-4.jpg)
 
 5. Click the "Teacher Login" button in the top right
 
-![02_TurnItIn.jpg](../_resources/02_TurnItIn.jpg)
+![02_TurnItIn.jpg](../_resources/02_TurnItIn-2.jpg)
 
 6. Enter the Teacher Name and Password and click the Log In Button
 
-![03_TeacherLogin.jpg](../_resources/03_TeacherLogin.jpg)
+![03_TeacherLogin.jpg](../_resources/03_TeacherLogin-1.jpg)
 
 7. Click on the "Available To All" button in the top right
 
@@ -52,7 +52,6 @@ Repeat this process for all files that you wish for students to be able to acces
 
 To accomplish this process as the Teacher, you will also need:
 - Turn It In! Teacher Credentials
-- Assignments to Upload
 
 To download student submissions from Turn It In!, follow these steps:
 1. Power On the Securebook with it Docked on a Red Docking Station
@@ -60,7 +59,7 @@ To download student submissions from Turn It In!, follow these steps:
 3. Navigate to RACHEL
 4. Select the Turn It In! Module
 
-![01_RACHEL.jpg](../_resources/01_RACHEL-2.jpg)
+![01_RACHEL.jpg](../_resources/01_RACHEL-3.jpg)
 
 5. Click the "Teacher Login" button in the top right
 
@@ -68,7 +67,7 @@ To download student submissions from Turn It In!, follow these steps:
 
 6. Enter the Teacher Name and Password and click the Log In Button
 
-![03_TeacherLogin.jpg](../_resources/03_TeacherLogin.jpg)
+![03_TeacherLogin.jpg](../_resources/03_TeacherLogin-2.jpg)
 
 7. To download a file that a student has submitted, click the download button to the right of the file's name, size, and modified date.
 
@@ -96,11 +95,11 @@ To change your password as a Teacher on Turn It In!, follow these steps:
 3. Navigate to RACHEL
 4. Select the Turn It In! Module
 
-![01_RACHEL.jpg](../_resources/01_RACHEL-2.jpg)
+![01_RACHEL.jpg](../_resources/01_RACHEL-1.jpg)
 
 5. Click the "Teacher Login" button in the top right
 
-![02_TurnItIn.jpg](../_resources/02_TurnItIn.jpg)
+![02_TurnItIn.jpg](../_resources/02_TurnItIn-1.jpg)
 
 6. Enter the Teacher Name and Password and click the Log In Button
 
@@ -111,7 +110,7 @@ To change your password as a Teacher on Turn It In!, follow these steps:
 ![10_ToTeacherSettings.jpg](../_resources/10_ToTeacherSettings.jpg)
 
 8. Enter the Old Password, and then the new password in both the New Password and Confirm Password fields.
- 
+
 ![11_TeacherSettings.jpeg](../_resources/11_TeacherSettings.jpeg)
 
 9. Press the Submit button at the bottom and the password will be successfully changed.
@@ -129,7 +128,7 @@ To upload Assignments to the teacher on Turn It In!, follow these steps:
 3. Navigate to RACHEL
 4. Select the Turn It In! Module
 
-![01_RACHEL.jpg](../_resources/01_RACHEL.jpg)
+![01_RACHEL.jpg](../_resources/01_RACHEL-2.jpg)
 
 5. To Upload a file, Drag and Drop the file into the dotted box or click the "Browse Files" button and select the file from the File Explorer.
 
@@ -149,7 +148,7 @@ To download any Assignments the Teacher has posted on Turn It In!, follow these 
 3. Navigate to RACHEL
 4. Select the Turn It In! Module
 
-![01_RACHEL.jpg](../_resources/01_RACHEL-1.jpg)
+![01_RACHEL.jpg](../_resources/01_RACHEL.jpg)
 
 5. At the bottom of the Turn It In! Homepage there is Assignments section that will list all of the Assignments currently made available by the Teacher. Click the download button next to an Assignment's name to begin downloading that Assignment.
 
