@@ -1,4 +1,4 @@
-# How to use setup_wifi.sh
+# How to run setup_wifi.sh
 
 To accomplish this process, you will need:
 - WP Securebook

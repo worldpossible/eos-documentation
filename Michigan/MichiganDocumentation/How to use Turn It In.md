@@ -16,9 +16,10 @@ To accomplish this process as the Teacher, you will also need:
 
 To upload a file to Turn It In!, follow these steps:
 1. Power On the Securebook with it Docked on a Red Docking Station
-2. Open a Web Browser Application (Chrome or Chromium should work)
-3. Navigate to RACHEL
-4. Select the Turn It In! Module
+2. Log into the jadmin account
+3. Open a Web Browser Application (Chrome or Chromium should work)
+4. Navigate to RACHEL
+5. Select the Turn It In! Module
 
 ![01_RACHEL.jpg](../_resources/01_RACHEL-4.jpg)
 
@@ -55,9 +56,10 @@ To accomplish this process as the Teacher, you will also need:
 
 To download student submissions from Turn It In!, follow these steps:
 1. Power On the Securebook with it Docked on a Red Docking Station
-2. Open a Web Browser Application (Chrome or Chromium should work)
-3. Navigate to RACHEL
-4. Select the Turn It In! Module
+2. Log into the jadmin account
+3. Open a Web Browser Application (Chrome or Chromium should work)
+4. Navigate to RACHEL
+5. Select the Turn It In! Module
 
 ![01_RACHEL.jpg](../_resources/01_RACHEL-3.jpg)
 
@@ -91,9 +93,10 @@ To accomplish this process as a Teacher, you will also need:
 
 To change your password as a Teacher on Turn It In!, follow these steps:
 1. Power On the Securebook with it Docked on a Red Docking Station
-2. Open a Web Browser Application (Chrome or Chromium should work)
-3. Navigate to RACHEL
-4. Select the Turn It In! Module
+2. Log into the jadmin account
+3. Open a Web Browser Application (Chrome or Chromium should work)
+4. Navigate to RACHEL
+5. Select the Turn It In! Module
 
 ![01_RACHEL.jpg](../_resources/01_RACHEL-1.jpg)
 
@@ -124,9 +127,10 @@ To accomplish this process as a Student, you will also need:
 
 To upload Assignments to the teacher on Turn It In!, follow these steps:
 1. Power On the Securebook with it Docked on a Red Docking Station
-2. Open a Web Browser Application (Chrome or Chromium should work)
-3. Navigate to RACHEL
-4. Select the Turn It In! Module
+2. Log into a student account
+3. Open a Web Browser Application (Chrome or Chromium should work)
+4. Navigate to RACHEL
+5. Select the Turn It In! Module
 
 ![01_RACHEL.jpg](../_resources/01_RACHEL-2.jpg)
 
@@ -144,9 +148,10 @@ To upload Assignments to the teacher on Turn It In!, follow these steps:
 
 To download any Assignments the Teacher has posted on Turn It In!, follow these steps:
 1. Power On the Securebook with it Docked on a Red Docking Station
-2. Open a Web Browser Application (Chrome or Chromium should work)
-3. Navigate to RACHEL
-4. Select the Turn It In! Module
+2. Log into a student account
+3. Open a Web Browser Application (Chrome or Chromium should work)
+4. Navigate to RACHEL
+5. Select the Turn It In! Module
 
 ![01_RACHEL.jpg](../_resources/01_RACHEL.jpg)
 
