@@ -22,21 +22,37 @@ To install new modules on RACHEL, follow these steps:
 6. Navigate to RACHEL
 7. Click on the "Admin" button on the top right
 
+---
+
 ![01_ImportRACHEL.jpg](../_resources/01_ImportRACHEL.jpg)
+
+---
 
 8. Enter the RACHEL Admin Username and Password
 
+---
+
 ![02_ImportAdminLogin.JPG](../_resources/02_ImportAdminLogin.JPG)
+
+---
 
 9. Click on the "Install" Tab
 
+---
+
 ![03_ImportModules.jpg](../_resources/03_ImportModules.jpg)
 
+---
+
 10. Click the Module you want to Install and Press the Download Button
+
+---
 
 ![06_ImportInstall.jpg](../_resources/06_ImportInstall.jpg)
 
 ![07.1ImportAddModule.jpg](../_resources/07.1ImportAddModule.jpg)
+
+---
 
 Once that Module finishes downloading, it is available on the RACHEL Homepage to use.
 
