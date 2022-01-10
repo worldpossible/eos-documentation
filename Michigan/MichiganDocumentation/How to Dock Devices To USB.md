@@ -1,5 +1,6 @@
 # How to Dock Devices to USB
 
+## Prerequisites
 To accomplish this process, you will need:
  - WP Securebook
  - Black (USB) Securebook Docking Station

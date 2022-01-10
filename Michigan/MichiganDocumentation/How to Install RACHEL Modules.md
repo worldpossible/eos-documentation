@@ -1,5 +1,7 @@
 # How to Install RACHEL Modules
 
+## Prerequisites
+
 To accomplish this process, you will need:
 - WP Securebook
 - RACHEL Device

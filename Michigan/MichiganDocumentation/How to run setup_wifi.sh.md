@@ -1,5 +1,7 @@
 # How to run setup_wifi.sh
 
+## Prerequisites
+
 To accomplish this process, you will need:
 - WP Securebook
 - Red (Wi-Fi) Docking Station

@@ -1,5 +1,6 @@
 # How to Sync Kolibri Channel From RACHEL (Student's Guide)
 
+## Prerequisites
 To accomplish this process, you will need:
 - WP Securebook
 - Red (WiFi) Docking Station
