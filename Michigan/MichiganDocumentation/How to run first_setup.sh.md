@@ -19,7 +19,11 @@ To complete the First Setup process, follow these steps:
 2. Login to the jadmin account using the default password
 3. Open the Terminal Application (Click Icon on the Desktop or Type 'Terminal' in the Searchbar)
 
+---
+
 ![01_FSetupTerminal.png](../_resources/01_FSetupTerminal.png)
+
+---
 
 4. Run the following command:
 	`sudo bash first_setup.sh`
@@ -27,16 +31,28 @@ To complete the First Setup process, follow these steps:
 > - Enter the New Student Account Name
 > - Enter the New Student Account Password
 
+---
+
 ![02_FSetup_Student.png](../_resources/02_FSetup_Student.png)
+
+---
 
 > - Enter the New jadmin Account Password
 
+---
+
 ![03_FSetup_jadmin.png](../_resources/03_FSetup_jadmin.png)
+
+---
 
 > - Enter the Current Date (YYYYMMDD)
 > - Enter the Current Time (HH:MM) in 24 Hour format
 
+---
+
 ![04_FSetup_DateTime.png](../_resources/04_FSetup_DateTime.png)
+
+---
 
 *Note: Once you have entered all the information, the script should conclude.*
 

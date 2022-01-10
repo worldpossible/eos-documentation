@@ -16,7 +16,11 @@ To run the setup_wifi.sh script and get connected to a wireless network, follow 
 4. Log in to the jadmin account
 5. Open the Terminal Application (Click Icon on the Desktop or Type 'Terminal' in the Searchbar)
 
+---
+
 ![01_WifiSetupTerminal.png](../_resources/01_WifiSetupTerminal.png)
+
+---
 
 6. Run the following command:
 	`sudo bash setup_wifi.sh`
@@ -26,14 +30,22 @@ To run the setup_wifi.sh script and get connected to a wireless network, follow 
 > - Type 1
 > - Press Enter
 
+---
+
 ![02_WifiSetupSSID.JPG](../_resources/02_WifiSetupSSID.JPG)
+
+---
 
 > - Type the Password of the Wireless Network
 > - Press Enter
 > - Type 1
 > - Press Enter
 
+---
+
 ![03_WifiSetupPassword.JPG](../_resources/03_WifiSetupPassword.JPG)
+
+---
 
 *Note: Once you have entered all the information, the script should conclude.*
 
