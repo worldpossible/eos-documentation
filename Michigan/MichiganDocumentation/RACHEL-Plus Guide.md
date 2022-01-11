@@ -199,7 +199,7 @@ To hide existing modules in RACHEL, follow these steps:
 
 ---
 
-10. To hide an existing module, click on the checkbox to the right of the module's name, next the the word "hide".
+10. To hide an existing module, click on the checkbox to the right of the module's name, next the the word "hide". Additionally, there are Hiding Tags by language at the top that can hide/show modules by language.
 *Note: Similarly, to unhide a module, uncheck the box next to that module's name.*
 
 ---
@@ -246,8 +246,14 @@ To sort existing modules in RACHEL, follow these steps:
 
 ---
 
-10. On top of the listed modules are Sorting Tags, Clicking on any of these will sort the list of existing RACHEL modules which also changes how they are displayed on the RACHEL Homepage.
+10. On top of the listed modules are Sorting Tags by language, Clicking on any of these will sort the list of existing RACHEL modules which also changes how they are displayed on the RACHEL Homepage.
 *Note: Modules can also be reordered in the list manually by dragging and dropping them into chosen places.*
+
+---
+
+![03_RachelSort.JPG](../_resources/03_RachelSort.JPG)
+
+---
 
 11. Scroll to the bottom of the page and Click the "Save Changes" button.
 
