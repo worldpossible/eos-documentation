@@ -69,7 +69,7 @@ When connecting to a Securebook, the securebook is placed snug against the dock 
 
 ---
 
-![IMG_20220110_134527978_HDR.jpg](../_resources/IMG_20220110_134527978_HDR.jpg)
+![IMG_20220110_134556059_HDR.jpg](../_resources/IMG_20220110_134556059_HDR.jpg)
 
 ---
 
