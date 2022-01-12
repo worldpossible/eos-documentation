@@ -15,7 +15,7 @@ This guide will walk you through using your RACHEL-Plus device. Please follow th
 
 ## Powering on Your RACHEL-Plus
 
-1. To safely power on the RACHEL-Plus device, please press the the Power button on the top for 5 econds. Release when you see the blue lights 
+1. To safely power on the RACHEL-Plus device, please press the the Power button on the top for 5 seconds. Release when you see the blue lights
 
 ---
 
@@ -33,7 +33,7 @@ This guide will walk you through using your RACHEL-Plus device. Please follow th
 
 ## Powering off Your RACHEL-Plus
 
-1. To safely turn off the RACHEL-Plus device, please press the the Power button once, then release. 
+1. To safely turn off the RACHEL-Plus device, please press the the Power button once, then release.
 
 ---
 
@@ -51,11 +51,14 @@ This guide will walk you through using your RACHEL-Plus device. Please follow th
 
 ## Maintaining your RACHEL-Plus' Battery
 
-The RACHEL-Plus should never be continually plugged in and charging for over 24 hours. Doing so will quickly ruin the battery inside. If being constantly plugged in to the charger is your prefered method of operating the RACHEL-Plus, it is strongly advised that you remove the battery from the RACHEL-Plus device entirely.
+- The RACHEL-Plus should never be continually plugged in and charging for over 24 hours
+  - Doing so will quickly ruin the battery inside
+- If being constantly plugged in to the charger is your prefered method of operating the RACHEL-Plus:
+  - It is strongly advised that you remove the battery from the RACHEL-Plus device entirely
 
-To Discharge the RACHEL-Plus battery simply unplug it from the charger after it finishes charging and utilize it as normal until the device needs to be charged again.
-
-
+To Discharge the RACHEL-Plus battery:
+1. Simply unplug it from the charger after it finishes charging
+2. Utilize it as normal until the device needs to be charged again
 
 ---
 
