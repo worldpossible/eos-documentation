@@ -51,12 +51,9 @@ This guide will walk you through using your RACHEL-Plus device. Please follow th
 
 ## Maintaining your RACHEL-Plus' Battery
 
-- The RACHEL-Plus should never be continually plugged in and charging for over 24 hours
-  - Doing so will quickly ruin the battery inside
-- If being constantly plugged in to the charger is your prefered method of operating the RACHEL-Plus:
-  - It is strongly advised that you remove the battery from the RACHEL-Plus device entirely
+- The device should not remain plugged in for more than 24 hours at any point in time unless the battery has been removed
 
-To Discharge the RACHEL-Plus battery:
+- To Discharge the RACHEL-Plus battery:
 1. Simply unplug it from the charger after it finishes charging
 2. Utilize it as normal until the device needs to be charged again
 
