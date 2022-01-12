@@ -51,6 +51,7 @@ This guide will walk you through using your RACHEL-Plus device. Please follow th
 
 ## Maintaining your RACHEL-Plus' Battery
 
+- Unless you plan to use this device on battery power as your standard method of operation, the battery should be removed
 - The device should not remain plugged in for more than 24 hours at any point in time unless the battery has been removed
 
 - To Discharge the RACHEL-Plus battery:
