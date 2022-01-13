@@ -3,8 +3,9 @@
 ## Prerequisites
 
 To accomplish this process, you will need:
- - WP Securebook
- - Red (Wi-Fi) Securebook Docking Station
+- WP Securebook
+- Red (Wi-Fi) Securebook Docking Station
+- Turn It In! Teacher Credentials
 
 ---
 
