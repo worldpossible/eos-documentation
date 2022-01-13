@@ -3,46 +3,15 @@
 ## Prerequisites
 
 To accomplish this process, you will need:
- - WP Securebook
- - Red (Wi-Fi) Securebook Docking Station
-
----
-
-## Downloading Submitted Assignments
-
-To accomplish this process as the Teacher, you will also need:
+- WP Securebook
+- Red (Wi-Fi) Securebook Docking Station
 - Turn It In! Teacher Credentials
 
+---
+
 To download student submissions from Turn It In!, follow these steps:
-1. Power On the Securebook with it Docked on a Red Docking Station
-2. Log into the jadmin account
-3. Open a Web Browser Application (Chrome or Chromium should work)
-4. Navigate to RACHEL
-5. Select the Turn It In! Module
-
----
-
-![01_RACHEL.jpg](../_resources/01_RACHEL-1.jpg)
-
----
-
-6. Click the "Teacher Login" button in the top right
-
----
-
-![02_TurnItIn.jpg](../_resources/02_TurnItIn-1.jpg)
-
----
-
-7. Enter the Teacher Name and Password and click the Log In Button
-
----
-
-![03_TeacherLogin.jpg](../_resources/03_TeacherLogin-1.jpg)
-
----
-
-8. To download a file that a student has submitted, click the download button to the right of the file's name, size, and modified date.
+1. Log into Turn It In! as Teacher
+2. To download a file that a student has submitted, click the download button to the right of the file's name, size, and modified date.
 
 ---
 
@@ -51,7 +20,7 @@ To download student submissions from Turn It In!, follow these steps:
 
 ---
 
-9. Alternatively, to download all the files that students have submitted, click and check the checkbox on the All Files option then click the All Files download button.
+3. Alternatively, to download all the files that students have submitted, click and check the checkbox on the All Files option then click the All Files download button.
 
 ---
 
