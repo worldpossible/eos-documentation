@@ -24,10 +24,19 @@ To accomplish these processes, you will need:
 
 ---
 
-Here the student's Browser History can be viewed and even searched using the searchbar at the top.
+In the center of the page, below the searchbar, is the history area that will display all of the student's browser history in chronological order, newest history being at the top.
 
 ---
 
 ![history.jpg](../_resources/history.jpg)
+
+---
+
+Here the student's Browser History can be viewed
+Additionally, the searchbar at the top allows you to use keywords or website names to narrow your search through the saved history.
+
+---
+
+![SearchHistory.jpg](../_resources/SearchHistory.jpg)
 
 ---
