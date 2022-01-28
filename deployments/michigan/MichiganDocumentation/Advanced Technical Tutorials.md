@@ -13,20 +13,19 @@ To accomplish these processes, you will need:
 ## Accessing Terminal as jadmin
 
 1. Turn on the Securebook
-
----
-
----
-
 2. Log into jadmin profile
 
 ---
+
+![RACHELjadmin.JPG](../_resources/RACHELjadmin-1.JPG)
 
 ---
 
 3. Start the Terminal Application
 
 ---
+
+![01_FSetupTerminal.png](../_resources/01_FSetupTerminal-1.png)
 
 ---
 
@@ -46,8 +45,17 @@ To accomplish these processes, you will need:
 `sudo nano wifi-creds`
 8. The file will have two variables seperated by an empty space, the first being the SSID and the second being the password, edit the file to contain the updated credentials.
 
-9. When ready to save the file, press CTL + x, y, then press enter.
+---
 
+![wifiCreds.jpg](../_resources/wifiCreds.jpg)
+
+---
+
+9. When ready to save the file, press CTL + x, y, then press enter.
+10. Close the terminal application.
+11. Restart the securebook.
+
+The wifi credentials should be completely updated now.
 
 ---
 
@@ -55,16 +63,86 @@ To accomplish these processes, you will need:
 
 1. Login with the jadmin account
 2. Type "Settings" in the Universal Search Bar at the top of the desktop
+
+---
+
+![01_searchSettings.jpg](../_resources/01_searchSettings.jpg)
+
+---
+
 3. Click the gear icon that appears to open the settings window
+
+---
+
+![02_gearIcon.jpg](../_resources/02_gearIcon.jpg)
+
+---
+
 4. Scroll until you see Users option
+
+---
+
+![03_settingsPane.jpg](../_resources/03_settingsPane.jpg)
+
+---
+
 5. Select the Users setting
+
+---
+
+![04_userOption.JPG](../_resources/04_userOption.JPG)
+
+---
+
 6. Click the Unlock button
+
+---
+
+![05_usersPane.jpg](../_resources/05_usersPane.jpg)
+
+---
+
 7. Enter jadmin credentials
+
+---
+
+![06_unlockWindow.jpg](../_resources/06_unlockWindow.jpg)
+
+---
+
 8. Select the user whose password you want to change
-9. Click on the password option'
-10. Make sure the "set password now" radio button is selected
+
+---
+
+![07_selectAccount.jpg](../_resources/07_selectAccount.jpg)
+
+---
+
+9. Click on the password option
+
+---
+
+![08_passwordOption.jpg](../_resources/08_passwordOption.jpg)
+
+---
+
+10. Make sure the "Set a password now" radio button is selected
+
+---
+
+![09_setPassword.jpg](../_resources/09_setPassword.jpg)
+
+---
+
 11. Enter the new password in both the new and confirm field
 12. Enter a password hint if desided
+
+---
+
+![10_newPassword.jpg](../_resources/10_newPassword.jpg)
+
+---
+
 13. Click the save button.
 14. Close the settings menu
 
