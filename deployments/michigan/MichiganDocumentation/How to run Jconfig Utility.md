@@ -36,7 +36,7 @@ To use the Jconfig Utility, follow these steps:
 
 ---
 
-![RACHELjadmin.JPG](../_resources/RACHELjadmin-2.JPG)
+![RACHELjadmin.JPG](../_resources/RACHELjadmin.JPG)
 
 ---
 
